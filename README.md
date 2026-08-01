@@ -144,8 +144,7 @@ Add your actual results here:
 * Built an end-to-end ML application
 * Deployed a machine learning model using Streamlit
 
-```
+## 👩‍💻 Author
 
-## Author
-
-**Akansha Uniyal**
+**Akansha Uniyal
+**
