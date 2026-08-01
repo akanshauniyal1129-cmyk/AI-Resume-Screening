@@ -136,7 +136,6 @@ Add your actual results here:
 * HR recruitment assistance
 * Job recommendation systems
 
----
 
 ## 🎯 Key Learning Outcomes
 
