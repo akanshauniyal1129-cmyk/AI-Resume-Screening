@@ -149,6 +149,6 @@ Add your actual results here:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Akansha Uniyal**
