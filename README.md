@@ -147,8 +147,6 @@ Add your actual results here:
 
 ```
 
----
-
 ## Author
 
 **Akansha Uniyal**
